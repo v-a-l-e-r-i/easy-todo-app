@@ -1,0 +1,16 @@
+{
+  "tasks": [
+    {
+      "id": "2",
+      "text": "learn programing"
+    },
+    {
+      "id": "3",
+      "text": "fill in the cards with paint"
+    },
+    {
+      "id": "5",
+      "text": "attempt number 2 trying to refresh page when added new task"
+    }
+  ]
+}
